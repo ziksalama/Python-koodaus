@@ -1,0 +1,14 @@
+# Kysytään käyttäjältä kolme kokonaislukua
+luku1 = int(input("Syötä ensimmäinen kokonaisluku: "))
+luku2 = int(input("Syötä toinen kokonaisluku: "))
+luku3 = int(input("Syötä kolmas kokonaisluku: "))
+
+# Lasku
+summa = luku1 + luku2 + luku3
+tulo = luku1 * luku2 * luku3
+keskiarvo = summa / 3
+
+# Tulos
+print("Lukujen summa on: " + str(summa))
+print("Lukujen tulo on: " + str(tulo))
+print("Lukujen keskikarvo on: " + str(keskiarvo))
