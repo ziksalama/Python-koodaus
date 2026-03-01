@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2dd097d-dad2-41b2-9f69-bfa5d30019e5" name="Changes" comment="Korjauksia">
-      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/jako_kolmella.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/pienin_&amp;_suurin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/tuumat_ja_sentit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/Arvonta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)/PiLikiarvo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Arvonta.executor": "Run",
+    "Python.Login.executor": "Run",
     "Python.jako_kolmella.executor": "Run",
     "Python.pienin_&_suurin.executor": "Run",
     "Python.tuumat_ja_sentit.executor": "Run",
@@ -77,8 +81,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -120,8 +124,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Korjauksia" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$tuumat_ja_sentit.coverage" NAME="tuumat_ja_sentit Coverage Results" MODIFIED="1770812840514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
     <SUITE FILE_PATH="coverage/PythonProject$jako_kolmella.coverage" NAME="jako_kolmella Coverage Results" MODIFIED="1770812184868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
+    <SUITE FILE_PATH="coverage/PythonProject$tuumat_ja_sentit.coverage" NAME="tuumat_ja_sentit Coverage Results" MODIFIED="1770812840514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
+    <SUITE FILE_PATH="coverage/Python_koodaus$Arvonta.coverage" NAME="Arvonta Coverage Results" MODIFIED="1772374763174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
     <SUITE FILE_PATH="coverage/PythonProject$pienin___suurin.coverage" NAME="pienin_&amp;_suurin Coverage Results" MODIFIED="1770814625994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
+    <SUITE FILE_PATH="coverage/Python_koodaus$Login.coverage" NAME="Login Coverage Results" MODIFIED="1772375352177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tehtävät/4. Alkuehdollinen toistorakenne (while)" />
   </component>
 </project>
